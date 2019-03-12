@@ -18,5 +18,4 @@ Feel free to add your name and GitHub handle below
 [Constance Bainbridge](https://github.com/conbainbridge)<br/>
 [Jennifer Weber](https://github.com/becomingajunior)<br/>
 [Tim Brooks](https://github.com/timryanb)<br/>
-
-Sample text inserted
+[Nishant Aggarwal](https://github.com/aggnishbiz)<br/>
